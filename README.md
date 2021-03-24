@@ -4,14 +4,21 @@
 > Date : 2021 / 1 / 3
 >
 > > <a href = "#goal">Goal</a><br>
-> > Description <br>
-> > Trial rules
+> > <a href = "#discription">Description</a><br>
+> > <a href = "#trial rules">Trial rules</a>
 
 ---
 
-# <p id = "goal">Goal
+<div id = "goal">
 
-The game teaches students the basics of <b>recursion</b> and uses the basics to deduce and solve problems that actually arise. </p>
+# Goal
+
+The game teaches students the basics of <b>recursion</b> and uses the basics to deduce and solve problems that actually arise.
+
+</div>
+<br>
+
+<div id = "discription">
 
 # Description
 
@@ -29,7 +36,12 @@ After hearing the news, the king issued an order, calling on all Adventurer to r
 The princess will be inherited if she is rescued.<br>
 <br>
 Next, please help the adventurer to accept the challenge!<br>
+
+</div>
 <br>
+<br>
+
+<div id = "trial rules">
 
 # Trial rules
 
@@ -40,3 +52,5 @@ Next, please help the adventurer to accept the challenge!<br>
 3. please move all the blue blocks out of the A position to the B or C position <br>
    <img src="https://pic.pimg.tw/emn178/1331212274-3545944647.jpg" border="0" width = "100">
 4. Use the minimum number of steps to pass the trial
+
+</div>
